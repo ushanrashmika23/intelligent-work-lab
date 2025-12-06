@@ -1,0 +1,172 @@
+{
+    "researchThemes": [
+        {
+            "id": "1",
+            "title": "Adaptive Machine Learning Systems",
+            "description": "Building ML models that continuously learn from real-time data streams. Research focuses on self-improving neural architectures, low-shot learning, and model distillation to deploy efficient intelligence across edge and cloud ecosystems.",
+            "icon": "Cpu",
+            "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.jdauQPOIlidBTpbJvpb-BgHaER?cb=ucfimg2&ucfimg=1&w=626&h=361&rs=1&pid=ImgDetMain&o=7&rm=3"
+        },
+        {
+            "id": "2",
+            "title": "Natural Language Understanding at Scale",
+            "description": "Advancing NLP beyond text prediction. We explore grounded reasoning, multi-agent dialogue, and zero-hallucination retrieval systems that combine symbolic logic with large-scale language models for trustworthy decision-making.",
+            "icon": "MessageSquare",
+            "imageUrl": "https://wallpaperaccess.com/full/10703389.jpg"
+        },
+        {
+            "id": "3",
+            "title": "Perceptive Vision Intelligence",
+            "description": "Developing vision systems with rich spatial understanding. Work includes 3D scene reconstruction, vision-language fusion models, multimodal memory, and generative perception engines for robotics, simulation, and creative tools.",
+            "icon": "Camera",
+            "imageUrl": "https://th.bing.com/th/id/R.6aee2adc01254dedf2e024ea1b5ccaa8?rik=ebRMVHiv8JNMCw&pid=ImgRaw&r=0"
+        }
+    ],
+    "teamMembers": [
+        {
+            "id": "1",
+            "name": "Dr. Kaneeka Vidanage",
+            "role": "Lab Director",
+            "specialization": "Ontological Modelling, Knowledge Engineering, Deep Learning, LLM, Chatbots",
+            "imageUrl": "./../img/dr_kaneeka.jfif.jpg",
+            "bio": "BSc, MSc, M.Phil., PhD Senior Lecturer / Head – Dept. of Computer Science",
+            "social": {
+                "linkedin": "https://linkedin.com/in/kaneeka-vidanage",
+                "twitter": "https://twitter.com/kaneeka_v",
+                "email": "mailto:kaneeka@lab.edu"
+            }
+        },
+        {
+            "id": "2",
+            "name": "Dr. Pradeep Kalansooriya",
+            "role": "Operations Director",
+            "specialization": "UI/UX, EEG Signal Processing",
+            "imageUrl": "./../img/dr_pradeep.jfif.jpg",
+            "bio": "BSc, MSc, Doc. Eng Senior Lecturer / Dean – Faculty of Computing",
+            "social": {
+                "linkedin": "https://linkedin.com/in/pradeep-kalansooriya",
+                "twitter": "https://twitter.com/pradeep_k",
+                "email": "mailto:pradeep@lab.edu"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Dr. Maj. RMM Pradeep",
+            "role": "Communications Director",
+            "specialization": "Disaster Management, Communications",
+            "imageUrl": "./../img/maj_pradeep.jfif.jpg",
+            "bio": "BSc, MSc, PhD Senior Lecturer / Director – Disaster Management",
+            "social": {
+                "linkedin": "https://linkedin.com/in/rmm-pradeep",
+                "twitter": "https://twitter.com/rmm_pradeep",
+                "email": "mailto:rmm@lab.edu"
+            }
+        },
+        {
+            "id": "4",
+            "name": "Ms. Dhrani Abeysinghe",
+            "role": "Lab Manager",
+            "specialization": "Specialization: Research Management, Administration",
+            "imageUrl": "./../img/ms_dhrani.jfif.jpg",
+            "bio": "BSc, MSc Lecturer – Dept. of Computer Science",
+            "social": {
+                "linkedin": "https://linkedin.com/in/dhrani-abeysinghe",
+                "twitter": "https://twitter.com/dhrani_a",
+                "email": "mailto:dhrani@lab.edu"
+            }
+        },
+        {
+            "id": "5",
+            "name": "Assoc. Prof. Raj Prasanna",
+            "role": "International Research Advisor",
+            "specialization": "International Research Collaboration",
+            "imageUrl": "./../img/dr_raj.jfif.jpg",
+            "bio": "Massey University, New Zealand",
+            "social": {
+                "linkedin": "https://linkedin.com/in/raj-prasanna",
+                "twitter": "https://twitter.com/raj_p",
+                "email": "mailto:raj@massey.ac.nz"
+            }
+        },
+        {
+            "id": "6",
+            "name": "Dr. Pasan Maduranga",
+            "role": "Research Fellow",
+            "specialization": "Engineering Research",
+            "imageUrl": "./../img/dr_pasan.jfif.jpg",
+            "bio": "BSc, MSc, PhD Faculty of Engineering, University of Sri Jayewardenepura",
+            "social": {
+                "linkedin": "https://linkedin.com/in/pasan-maduranga",
+                "twitter": "https://twitter.com/pasan_m",
+                "email": "mailto:pasan@usjp.ac.lk"
+            }
+        }
+    ],
+    "publications": [
+        {
+            "id": "1",
+            "title": "Edge-Friendly LLM Distillation for Resource-Constrained Devices",
+            "date": "2024-11-20",
+            "author": "Dr. --",
+            "category": "Model Efficiency",
+            "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+            "abstract": "A lightweight distillation pipeline for trimming LLMs to edge-friendly footprints while preserving reasoning quality. Evaluates streaming adapters, progressive quantization, and dynamic sparsity on heterogeneous devices. A lightweight distillation pipeline for trimming LLMs to edge-friendly footprints while preserving reasoning quality. Evaluates streaming adapters, progressive quantization, and dynamic sparsity on heterogeneous devices.",
+            "link": "https://example.com/pub1"
+        },
+        {
+            "id": "2",
+            "title": "Grounded Knowledge Graphs for Higher Education Intelligence",
+            "date": "2025-02-01",
+            "author": "Dr. --",
+            "category": "Knowledge Engineering",
+            "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80",
+            "abstract": " Introduces a grounded KG stack that fuses academic catalogs with behavioral telemetry to power retrieval-augmented tutoring. Covers ontology alignment, consent-aware data governance, and latency benchmarks. Introduces a grounded KG stack that fuses academic catalogs with behavioral telemetry to power retrieval-augmented tutoring. Covers ontology alignment, consent-aware data governance, and latency benchmarks.",
+            "link": "https://example.com/pub2"
+        },
+        {
+            "id": "3",
+            "title": "Multimodal Situational Awareness for Disaster Response",
+            "date": "2024-06-05",
+            "author": "Dr. Maj. RMM Pradeep",
+            "category": "Emergency Systems",
+            "imageUrl": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1200&q=80",
+            "abstract": "Presents a multimodal fusion model that combines satellite feeds, UAV imagery, and radio transcripts to prioritize relief. Details cross-modal attention, low-bandwidth fallbacks, and field validation during live drills. Presents a multimodal fusion model that combines satellite feeds, UAV imagery, and radio transcripts to prioritize relief. Details cross-modal attention, low-bandwidth fallbacks, and field validation during live drills.",
+            "link": "https://example.com/pub3"
+        },
+        {
+            "id": "4",
+            "title": "Human-Centered UX Patterns for Agentic Interfaces",
+            "date": "2025-01-15",
+            "author": "Dr. --",
+            "category": "HCI",
+            "imageUrl": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1200&q=80",
+            "abstract": "Catalogs UX primitives for agentic copilots inside enterprise workflows. Reports findings on trust calibration, error recoverability, and preview-first flows across finance and healthcare pilots. Catalogs UX primitives for agentic copilots inside enterprise workflows. Reports findings on trust calibration, error recoverability, and preview-first flows across finance and healthcare pilots.",
+            "link": "https://example.com/pub4"
+        },
+        {
+            "id": "5",
+            "title": "Trustworthy AI Policies for Public Sector Deployments",
+            "date": "2024-09-12",
+            "author": "Dr. --",
+            "category": "AI Governance",
+            "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+            "abstract": "Catalogs UX primitives for agentic copilots inside enterprise workflows. Reports findings on trust calibration, error recoverability, and preview-first flows across finance and healthcare pilots. Catalogs UX primitives for agentic copilots inside enterprise workflows. Reports findings on trust calibration, error recoverability, and preview-first flows across finance and healthcare pilots.",
+            "link": "https://example.com/pub5"
+        }
+    ],
+    "contact": {
+        "address": {
+            "name": "Intelligent Work Lab",
+            "university": "University of --",
+            "street": "City, State, ZIP",
+            "country": "Sri Lanka"
+        },
+        "email": "info@iwl.com",
+        "phone": "+94 11 275 8000",
+        "social": {
+            "twitter": "https://twitter.com/intelligentworklab",
+            "linkedin": "https://linkedin.com/company/intelligent-work-lab",
+            "github": "https://github.com/intelligent-work-lab"
+        }
+    }
+}
